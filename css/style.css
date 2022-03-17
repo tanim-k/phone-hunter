@@ -1,0 +1,28 @@
+.bg-common{
+    background-color: #F4F9F9;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.phone-image{
+    width: 34%;
+    display: block;
+    margin: auto;
+    height: 350px;
+}
+.img-card{
+    height: 280px;
+    width: 70%;
+    margin: auto;
+    display: block;
+}
+#show-button{
+    display: none;
+}
+
+#spinner{
+    display: none;
+}
